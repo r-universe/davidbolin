@@ -8,6 +8,11 @@
 	url = https://github.com/davidbolin/excursions
 	shallow = true
 	registered = true
+[submodule "MetricGraph"]
+	path = MetricGraph
+	url = https://github.com/davidbolin/metricgraph
+	shallow = true
+	registered = true
 [submodule "rSPDE"]
 	path = rSPDE
 	url = https://github.com/davidbolin/rspde
