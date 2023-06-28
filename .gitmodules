@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "excursions"]
 	path = excursions
 	url = https://github.com/davidbolin/excursions
-	shallow = true
-	registered = true
 [submodule "MetricGraph"]
 	path = MetricGraph
 	url = https://github.com/davidbolin/metricgraph
-	shallow = true
-	registered = true
 [submodule "rSPDE"]
 	path = rSPDE
 	url = https://github.com/davidbolin/rspde
-	shallow = true
-	registered = true
