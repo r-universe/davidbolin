@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "excursions"]
-	path = excursions
-	url = https://github.com/davidbolin/excursions
 [submodule "MetricGraph"]
 	path = MetricGraph
 	url = https://github.com/davidbolin/metricgraph
+[submodule "excursions"]
+	path = excursions
+	url = https://github.com/davidbolin/excursions
 [submodule "rSPDE"]
 	path = rSPDE
 	url = https://github.com/davidbolin/rspde
