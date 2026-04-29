@@ -8,6 +8,9 @@
 [submodule "excursions"]
 	path = excursions
 	url = https://github.com/davidbolin/excursions
+[submodule "ngme2"]
+	path = ngme2
+	url = https://github.com/davidbolin/ngme2
 [submodule "rSPDE"]
 	path = rSPDE
 	url = https://github.com/davidbolin/rspde
